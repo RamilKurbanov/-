@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Какой высоты елка ");
+﻿Console.WriteLine("Какой высоты елка? ");
 int width = int.Parse(Console.ReadLine()!);
 for (int i = width; i >0; i--)
 {
