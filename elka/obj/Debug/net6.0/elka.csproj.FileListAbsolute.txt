@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\bin\Debug\net6.0\elka.exe
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\bin\Debug\net6.0\elka.deps.json
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\bin\Debug\net6.0\elka.runtimeconfig.json
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\bin\Debug\net6.0\elka.dll
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\bin\Debug\net6.0\elka.pdb
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.dll
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\refint\elka.dll
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.pdb
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\elka.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\elka\elka\obj\Debug\net6.0\ref\elka.dll
